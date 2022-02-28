@@ -1,0 +1,37 @@
+/* 
+   Author: Tianna Hatch 
+   Last Updated Date:   02/28/2022
+   
+   Filename: clay-figma.css
+*/
+
+
+
+/* Rectangle 1 */
+
+rectangle {
+    position: absolute;
+    width: 275px;
+    height: 321px;
+    left: 58px;
+    top: 259px;
+    
+    background: #FFFFFF;
+    box-shadow: 12px 12px 24px #6A8FD7, inset 3px 3px 6px #F7FAFE, inset -6px -6px 24px #87A8E8;
+    border-radius: 40px;
+}
+
+/* Rectangle 2 */
+
+btn {
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 121px;
+    top: 507px;
+    
+    background: #F48BD1;
+    box-shadow: 0px 3px 6px rgba(244, 138, 208, 0.6), inset 6px 6px 12px #ED58BB, inset -6px -6px 12px #D271B2;
+    border-radius: 20px;
+    
+}
